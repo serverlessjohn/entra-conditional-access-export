@@ -39,12 +39,8 @@ Connect-MgGraph -Scopes "Policy.Read.All"
 ```
 
 ## Output
-exports/
-└── 2026-11-14_2030/
-├── Require-MFA-for-All-Users.json
-├── Block-Legacy-Authentication.json
-├── Require-Compliant-Device-for-Admins.json
-└── ...
+<img width="544" height="102" alt="image" src="https://github.com/user-attachments/assets/20cd3030-dd92-4b7e-99e7-b65b54d65d3c" />
+
 
 
 Each file contains the full policy definition — conditions, grant
